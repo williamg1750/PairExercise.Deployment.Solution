@@ -27,7 +27,7 @@ const client = new Sequelize(dbUrl, {
 //     operatorsAliases: false,
 //   };
 // }
-const client = new Sequelize(dbUrl, config);
+// const client = new Sequelize(dbUrl, config);
 
 module.exports = client;
 
