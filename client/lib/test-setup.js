@@ -9,4 +9,3 @@ enz.configure({ adapter });
 export const enzyme = enz;
 export const shallow = shall;
 export const expect = exp;
-her;
